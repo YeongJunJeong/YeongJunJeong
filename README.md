@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 
 ```css
 #Jus_d_orange { 
